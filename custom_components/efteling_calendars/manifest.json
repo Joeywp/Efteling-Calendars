@@ -1,0 +1,13 @@
+{
+    "domain": "efteling_calendars",
+    "name": "Efteling Calendars",
+    "codeowners": [
+      "@Joeywp"
+    ],
+    "dependencies": [],
+    "homekit": {},
+    "iot_class": "cloud_polling",
+    "requirements": [],
+    "ssdp": [],
+    "zeroconf": []
+  }
